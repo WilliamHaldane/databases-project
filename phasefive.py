@@ -9,7 +9,7 @@
 #             host='localhost:3306',
 #             database='bookfetch',
 #             user='root',
-#             password='O15mp8dk!202020'
+#             password='yourpassword'
             
 #         )
 #         if connection.is_connected():
