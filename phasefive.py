@@ -28,7 +28,7 @@ def connectToDB():
     try:
         reservationConnection = mysql.connector.connect(
             user='root',
-            password='O15mp8dk!202020',
+            password='yourpassword',
             host='localhost',
             database='bookfetch'
             )
